@@ -4,7 +4,7 @@ from googleapiclient.discovery import build
 import pandas as pd
 from datetime import datetime
 
-API_KEY = 'AIzaSyBz7mtQkhtm5tfAuyzKS5DXppXgXLmPx8c'
+API_KEY = 'XXX'
 youtube = build('youtube', 'v3', developerKey=API_KEY)
 
 
